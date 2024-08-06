@@ -15,7 +15,7 @@
 
 
 ## Research Interests
-- Multimodal Machine Learning Models and application for Precision Immunotherapy
+- Multimodal Machine Learning Models and application for Cancer Immunotherapy
 - Multi-omics analysis
 - single-cell sequencing analysis
 
