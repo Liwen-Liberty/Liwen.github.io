@@ -28,15 +28,15 @@ redirect_from:
 
 ## Publications
 **First and Corresponding Author**  
-- **Liwen Xu#**, Chunyu Deng#, Bo Pang#, Xinxin Zhang#, Wei Liu, et al. TIP: A Web Server for Resolving Tumor Immunophenotype Profiling. *Cancer Research*, 2018 Dec 1（ESI highly cited）
-- **Liwen Xu#**, Boya Ji, Yijun Peng, Wending Pi, and Shaoliang Peng. ImmRegInformer: an interpretable Transformer-based method for prioritizing immune-regulatory cancer drivers. In 2023 IEEE BIBM（CCF-B）
-- Wenwu Zeng, Yutao Dou, Liangrui Pan, **Liwen Xu***, Shaoliang Peng*, Interpretable improving prediction performance of general protein language model by domain-adaptive pretraining on DNA-binding protein. Nature Communications, 2024
-- **Liwen Xu#**, Shiwei Zhu#, Yujia Lan, Min Yan, Zedong Jiang, et al. Revealing the contribution of somatic gene mutations to shaping tumor immune microenvironment. Briefings in bioinformatics, 2022 Mar 1
-- Liangrui Pan, Yijun Peng, Yan Li, Xiang Wang, Wenjuan Liu, **Liwen Xu***, Qingchun Liang*, Shaoliang Peng*. SELECTOR: Heterogeneous graph network with convolutional masked autoencoder for multimodal robust prediction of cancer survival. Comput Biol Med, 2024 Apr
-- Liangrui Pan, Yutao Dou, Zhichao Feng, **Liwen Xu***, and Shaoliang Peng*. LDCSF: Local depth convolution-based Swim framework for classifying multi-label histopathology images. In 2023 IEEE BIBM（CCF-B）
-- Liangrui Pan, Lian Wang, Zhichao Feng, **Liwen Xu***, and Shaoliang Peng*. CVFC: Attention-Based Cross-View Feature Consistency for Weakly Supervised Semantic Segmentation of Pathology Images. In 2023 IEEE BIBM（（CCF-B）
-- Jinyuan Xu#, Aiai Shi#, Zhilin Long#, **Liwen Xu#**, Gaoming Liao, et al. Capturing functional long non-coding RNAs through integrating large-scale causal relations from gene perturbation experiments. EBioMedicine, 2018 Sep
-- Shangqin Sun#, **Liwen Xu#**, Xinxin Zhang, Lin Pang, Zhilin Long, et al. Systematic Assessment of Transcriptomic Biomarkers for Immune Checkpoint Blockade Response in Cancer Immunotherapy. Cancers (Basel), 2021 Apr 1
+1. **Liwen Xu#**, Chunyu Deng#, Bo Pang#, Xinxin Zhang#, Wei Liu, et al. TIP: A Web Server for Resolving Tumor Immunophenotype Profiling. *Cancer Research*, 2018 Dec 1（ESI highly cited）
+1. **Liwen Xu#**, Boya Ji, Yijun Peng, Wending Pi, and Shaoliang Peng. ImmRegInformer: an interpretable Transformer-based method for prioritizing immune-regulatory cancer drivers. In 2023 IEEE BIBM（CCF-B）
+1. Wenwu Zeng, Yutao Dou, Liangrui Pan, **Liwen Xu\***, Shaoliang Peng*, Interpretable improving prediction performance of general protein language model by domain-adaptive pretraining on DNA-binding protein. Nature Communications, 2024
+1. **Liwen Xu#**, Shiwei Zhu#, Yujia Lan, Min Yan, Zedong Jiang, et al. Revealing the contribution of somatic gene mutations to shaping tumor immune microenvironment. Briefings in bioinformatics, 2022 Mar 1
+1. Liangrui Pan, Yijun Peng, Yan Li, Xiang Wang, Wenjuan Liu, **Liwen Xu\***, Qingchun Liang*, Shaoliang Peng*. SELECTOR: Heterogeneous graph network with convolutional masked autoencoder for multimodal robust prediction of cancer survival. Comput Biol Med, 2024 Apr
+1. Liangrui Pan, Yutao Dou, Zhichao Feng, **Liwen Xu\***, and Shaoliang Peng*. LDCSF: Local depth convolution-based Swim framework for classifying multi-label histopathology images. In 2023 IEEE BIBM（CCF-B）
+1. Liangrui Pan, Lian Wang, Zhichao Feng, **Liwen Xu\***, and Shaoliang Peng*. CVFC: Attention-Based Cross-View Feature Consistency for Weakly Supervised Semantic Segmentation of Pathology Images. In 2023 IEEE BIBM（（CCF-B）
+1. Jinyuan Xu#, Aiai Shi#, Zhilin Long#, **Liwen Xu#**, Gaoming Liao, et al. Capturing functional long non-coding RNAs through integrating large-scale causal relations from gene perturbation experiments. EBioMedicine, 2018 Sep
+1. Shangqin Sun#, **Liwen Xu#**, Xinxin Zhang, Lin Pang, Zhilin Long, et al. Systematic Assessment of Transcriptomic Biomarkers for Immune Checkpoint Blockade Response in Cancer Immunotherapy. Cancers (Basel), 2021 Apr 1
 
 ## Representative Work
 - **TIP: Tracking Tumor Immunophenotype**
